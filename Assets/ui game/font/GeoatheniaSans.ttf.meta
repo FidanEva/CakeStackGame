@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2e2ef784187cb7947b2e2b71a75a98a7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Geoathenia Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5fbf1f99e27904541a62edb6958f41f8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
